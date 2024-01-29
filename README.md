@@ -3,4 +3,4 @@ Desenvolvi esse cartão para os devs apaixonados que não tem coragem de chamar 
 
 ##
 
-<img src="/assets/cartão.gif">
+<img src="/assets/cartão.mp4">
