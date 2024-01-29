@@ -31,6 +31,10 @@ h2{
 
 /**/
 
+h1{
+    padding: 20px;
+}
+
 #conteudo{
     justify-content: center;
     align-items: center;
@@ -42,7 +46,7 @@ h2{
     background-color: white;
     width: 450px;
     border: solid #f13570;
-    height: 250px;
+    min-height: 250px;
     box-shadow: 10px 10px;
 }
 .mens{
